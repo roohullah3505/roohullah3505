@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rooh21nn0&label=Profile%20views&color=0e75b6&style=flat" alt="rooh21nn0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rooh21nn0" alt="rooh21nn0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roohullah3505" alt="roohullah3505" /></a> </p>
 
 - 🔭 I’m currently working on **SalesForce**
 
 - 🌱 I’m currently learning **Next JS ,App Developtment**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rooh21nn0?tab=repositories](https://github.com/rooh21nn0?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/rooh21nn0?tab=repositories](https://github.com/roohullah3505?tab=repositories)
 
 - 💬 Ask me about **React,Veu,React native,Java,MERN**
 
@@ -36,5 +36,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rooh21nn0&show_icons=true&locale=en" alt="rooh21nn0" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rooh21nn0&" alt="rooh21nn0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roohullah3505&" alt="rooh21nn0" /></p>
 
