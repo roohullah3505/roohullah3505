@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Roohullah Ali</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">Aspiring Data Analyst || MIS Analyst</h3>
 <img align ="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rooh21nn0&label=Profile%20views&color=0e75b6&style=flat" alt="rooh21nn0" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roohullah3505" alt="roohullah3505" /></a> </p>
 
-- 🔭 I’m currently working on **SalesForce**
+- 🔭 I’m currently working on **Data Analyst**
 
-- 🌱 I’m currently learning **Next JS ,App Developtment**
+- 🌱 I’m currently learning **Advanced in Ms excel, sqp,python,power Bi**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rooh21nn0?tab=repositories](https://github.com/roohullah3505?tab=repositories)
 
-- 💬 Ask me about **React,Veu,React native,Java,MERN**
+- 💬 Ask me about **Data Analyst,MIS analyst,Busness Analyst**
 
 - 📫 How to reach me **roohullahali78@gmail.com**
 
